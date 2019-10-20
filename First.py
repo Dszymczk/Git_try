@@ -2,3 +2,4 @@
 print "Hello world"
 print "And some more"
 print "trzeci"
+print "czwarty"
